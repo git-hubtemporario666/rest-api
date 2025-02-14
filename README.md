@@ -1,7 +1,11 @@
 # rest api 
 
 ## run project 
-python manage.py runserver
+
+`python3 -m venv venv`  
+`pip install -r requirements.txt`
+`python manage.py runserver`
+
 
 ## API de Avaliação de Produtos
 
